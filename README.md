@@ -1,1 +1,1 @@
-# Тестовое задание для backend-стажёра в команду Advertising
+# Тестовое задание для backend-стажёра в команду Marketing Intelligence (OneTimeSecret)
